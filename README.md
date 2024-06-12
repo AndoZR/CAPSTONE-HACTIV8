@@ -1,4 +1,4 @@
-# YOLOv5 Emotion Detection Model
+# YOLOv5 Corosion Detection Model
 
 This repository contains the implementation of the YOLOv5 model for detecting emotions in images. The model can classify images into three categories: critical, medium, and light.
 
